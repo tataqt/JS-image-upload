@@ -1,0 +1,26 @@
+{
+  "name": "js-image-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tataqt/JS-image-upload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tataqt/JS-image-upload/issues"
+  },
+  "homepage": "https://github.com/tataqt/JS-image-upload#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "firebase": "^8.7.1"
+  }
+}
